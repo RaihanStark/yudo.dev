@@ -1,4 +1,4 @@
-module github.com/RaihanStark/raihanstark.github.io
+module github.com/RaihanStark/yudo.dev
 
 go 1.21.5
 
