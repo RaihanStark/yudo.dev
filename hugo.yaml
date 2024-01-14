@@ -12,6 +12,17 @@ buildExpired: false
 minify:
   disableXML: true
   minifyOutput: true
+  
+outputs:
+  home:
+    - html
+  section:
+    - html
+    - rss
+  taxonomy:
+    - html
+  term:
+    - html
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
